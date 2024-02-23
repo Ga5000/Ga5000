@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that I can do
 - 📫 How to reach me gbr.lisboa@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I know how to program in JAVA but not to make it
+- ⚡ Fun fact: I need a job
 
 <!---
 Ga5000/Ga5000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
