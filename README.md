@@ -1,5 +1,4 @@
 ![github-header-image](https://github.com/Ga5000/Ga5000/assets/146370905/721d7bc6-a971-42b8-8ec9-cb51a28257c0)
-![Header](./your-header-image-name.png)
 - 👋 Hi, I’m @Ga5000
 - 👀 I’m interested in Full-Stack development
 - 🌱 I’m currently learning HTML\CSS\JS\REACT\GIT
