@@ -1,3 +1,6 @@
+![Header](./[Your header image])
+
+
 - 👋 Hi, I’m @Ga5000
 - 👀 I’m interested in Full-Stack development
 - 🌱 I’m currently learning HTML\CSS\JS\REACT\GIT
