@@ -28,7 +28,11 @@
 
 [![Java](https://img.shields.io/badge/Java-17-red)](https://www.oracle.com/java/)
 
-<h3>Version control🧑‍💻: </h3>
+<h3>Database💽: </h3>
+
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)](https://www.mysql.com/)
+
+<h3>Version Control🧑‍💻: </h3>
 
 [![Git](https://img.shields.io/badge/Git-2.x-lightgrey)](https://git-scm.com/)
 
