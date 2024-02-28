@@ -5,7 +5,7 @@
 <div>
     <ul>
         <li>👨‍💻 I’m interested in Front-end development</li>
-        <li>📝 I’m currently learning HTML\CSS\JS\REACT\GIT</li>
+        <li>📝 I’m currently learning REACT JS\GIT</li>
         <li>🤔 I’m looking to collaborate on anything that I can do</li>
         <li>😄 Pronouns: he/him</li>
         <li>⚡ Fun fact: I need a job</li>
@@ -16,14 +16,16 @@
 
 <br>
 
-<h3>Languages and Tools: 🛠️</h3>
-<div style="display: flex; align-items: center;">
-    <img src="https://github.com/Ga5000/Ga5000/assets/146370905/fdb759ef-1cfe-43d8-94b0-c02e8cc3da20" alt="HTML Badge" width="40" style="margin-right: 10px;">
-    <img src="https://github.com/Ga5000/Ga5000/assets/146370905/a5115819-e24f-4ee5-8ea6-c20c97fd5656" alt="CSS/HTML Logo" width="40" style="margin-right: 10px;">
-    <img src="https://github.com/Ga5000/Ga5000/assets/146370905/5ba08c82-0fcc-4083-a05c-87b1c251cfeb" alt="JavaScript Logo" width="40" style="margin-right: 10px;">
-    <img src="https://github.com/Ga5000/Ga5000/assets/146370905/9fb3612d-6f78-4ac7-a341-7ee4a3d582f6" alt="React Logo" width="40" style="margin-right: 10px;">
-    <img src="https://github.com/Ga5000/Ga5000/assets/146370905/2d05184e-71cf-4a37-8d91-dc9ef1462743" alt="Java Logo" width="40" style="margin-right: 10px;">
-    <img src="https://github.com/Ga5000/Ga5000/assets/146370905/92ffe40c-c3aa-4122-aa7f-1d8d18186f75" alt="Git Icon" width="40">
-</div>
+<h3>Tech Stack💻: </h3>
+
+[![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-17.x-blue)](https://reactjs.org/)
+</br>
+[![Java](https://img.shields.io/badge/Java-17-red)](https://www.oracle.com/java/)
+[![Git](https://img.shields.io/badge/Git-2.x-lightgrey)](https://git-scm.com/)
+[![Figma](https://img.shields.io/badge/Figma-Design-purple)](https://www.figma.com/)
+
 
 
