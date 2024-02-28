@@ -17,15 +17,21 @@
 <br>
 
 <h3>Tech Stack💻: </h3>
+<h3>Front-end🌐: </h3>
 
 [![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-17.x-blue)](https://reactjs.org/)
-</br>
-[![Java](https://img.shields.io/badge/Java-17-red)](https://www.oracle.com/java/)
-[![Git](https://img.shields.io/badge/Git-2.x-lightgrey)](https://git-scm.com/)
 [![Figma](https://img.shields.io/badge/Figma-Design-purple)](https://www.figma.com/)
+<h3>Back-end🖥️: </h3>
+
+[![Java](https://img.shields.io/badge/Java-17-red)](https://www.oracle.com/java/)
+
+<h3>Version control🧑‍💻: </h3>
+
+[![Git](https://img.shields.io/badge/Git-2.x-lightgrey)](https://git-scm.com/)
+
 
 
 
