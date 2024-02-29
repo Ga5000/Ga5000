@@ -37,5 +37,5 @@
 [![Git](https://img.shields.io/badge/Git-2.x-lightgrey)](https://git-scm.com/)
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ga5000&theme=tokyonight)
 
