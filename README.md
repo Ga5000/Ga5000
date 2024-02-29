@@ -23,7 +23,7 @@
 [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-17.x-blue)](https://reactjs.org/)
-[![Figma](https://img.shields.io/badge/Figma-Design-purple)](https://www.figma.com/)
+
 <h3>Back-end🖥️: </h3>
 
 [![Java](https://img.shields.io/badge/Java-17-red)](https://www.oracle.com/java/)
