@@ -1,11 +1,11 @@
 ![github-header-image](https://github.com/Ga5000/Ga5000/assets/146370905/73c2a0d5-700c-4a22-ab47-08acd74666dc)
 
-<h1> I'm a frontend developer, a student, and a tech enthusiast! 🤔 </h1>
+<h1> I'm a web developer, a student, and a tech enthusiast! 🤔 </h1>
 
 <div>
     <ul>
-        <li>👨‍💻 I’m interested in Front-end development</li>
-        <li>📝 I’m currently learning REACT JS\GIT</li>
+        <li>👨‍💻 I’m interested in Web development</li>
+        <li>📝 I’m currently learning REACT JS and jQuery</li>
         <li>🤔 I’m looking to collaborate on anything that I can do</li>
         <li>😄 Pronouns: he/him</li>
         <li>⚡ Fun fact: I need a job</li>
