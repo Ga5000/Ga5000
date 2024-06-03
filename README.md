@@ -26,11 +26,13 @@
 
 <h2>Tech Stack 💻</h2>
 
-<h3>Front-end 🌐</h3> <p>
+<div>
+  <h3>Front-end 🌐: </h3> <p>
 <img src="https://img.shields.io/badge/HTML-5-orange" alt="HTML">  <img src="https://img.shields.io/badge/CSS-3-blue" alt="CSS">
     <img src="https://img.shields.io/badge/JavaScript-ES6-yellow" alt="JavaScript">
     <img src="https://img.shields.io/badge/React-17.x-blue" alt="React">
     <img src="https://img.shields.io/badge/Tailwind_CSS-2.x-38B2AC" alt="Tailwind CSS"></p>
+</div>
 
 <h3>Back-end 🖥️</h3> <p><img src="https://img.shields.io/badge/Java-17-red" alt="Java"></p>
 
