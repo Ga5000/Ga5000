@@ -9,8 +9,11 @@
 </p>
 
 <b>I'm currently a Computer Science student.</b>
+<br>
 <b>I enjoy coding, and I'm certain that I want to make a living out of it.</b>
+<br>
 <b>"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill</b>
+<br>
 
 <h2>Knowledge 💡</h2>
 <ul>
