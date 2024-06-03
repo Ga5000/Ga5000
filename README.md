@@ -1,15 +1,14 @@
 <h1>Hi there! I'm Gabriel 🧐</h1>
 
 <p>
-  <a href="https://img.shields.io/badge/Looking_for_a_job-Yes!-green">
-    <img src="https://img.shields.io/badge/Looking_for_a_job-Yes!-green" alt="Looking for a job">
-  </a>
-  <a href="https://img.shields.io/badge/Level-Beginner/Intermediate-orange">
-    <img src="https://img.shields.io/badge/Level-Beginner/Intermediate-orange" alt="Level">
-  </a>
+  
+  <img src="https://img.shields.io/badge/Looking_for_a_job-Yes!-green" alt="Looking for a job">
+  
+  <img src="https://img.shields.io/badge/Level-Beginner/Intermediate-orange" alt="Level">
+
 </p>
 
-<p>I'm currently a Computer Science student.</p>
+<b>I'm currently a Computer Science student.</b>
 
 <h2>Knowledge 💡</h2>
 <ul>
