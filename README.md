@@ -16,16 +16,13 @@
 
 <h2>Knowledge 💡</h2>
 <ul>
-    <li>Programming Logic</li>
-    <li>Problem Solving</li>
-    <li>OOP</li>
-    <li>Data Structures 
-      
-  <img src="https://img.shields.io/badge/C-blue" alt="C">
-    
-  </li>
-    <li>Web Development</li>
-    <li>Database Operations (SQL)</li>
+   <li>Programming Logic 💡</li>
+<li>Problem Solving 🧩</li>
+<li>Object-Oriented Programming (OOP) 🔄</li>
+<li>Data Structures 📊</li>
+<li>Web Development 🌐</li>
+<li>Database Operations (SQL) 💾</li>
+
 </ul>
 
 <h2>Tech Stack 💻</h2>
