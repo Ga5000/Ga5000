@@ -1,6 +1,7 @@
 # Gabriel's README
 
 <a href="https://github.com/Ga5000">![Looking for a job](https://img.shields.io/badge/Looking_for_a_job-Yes!-green)</a>
+<a href="https://www.linkedin.com/in/gabriel-lisboa05/">![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)</a>
 
 **About Me:**
 - Hi there! I'm Gabriel 🧐
