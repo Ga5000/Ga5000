@@ -1,6 +1,6 @@
 # Gabriel's README
 
-![Looking for a job](https://img.shields.io/badge/Looking_for_a_job-Yes!-green)
+<a href="https://github.com/Ga5000">![Looking for a job](https://img.shields.io/badge/Looking_for_a_job-Yes!-green)</a>
 
 **About Me:**
 - Hi there! I'm Gabriel 🧐
