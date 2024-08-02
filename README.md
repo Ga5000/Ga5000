@@ -2,7 +2,6 @@
 
 <a href="https://github.com/Ga5000">![Looking for a job](https://img.shields.io/badge/Looking_for_a_job-Yes!-green)</a>
 <a href="https://www.linkedin.com/in/gabriel-lisboa05/" target="blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)</a>
-<a href="gbr.lisboa@gmail.com">![Contact](https://img.shields.io/badge/Contact-Email-red)</a>
 
 
 
