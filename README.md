@@ -23,7 +23,7 @@
 - MySQL
 
 **Role:**
-- Backend Developer
+- Computer Science Student & Aspiring Software Developer
 
 ---
 
