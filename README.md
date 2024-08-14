@@ -20,7 +20,7 @@
 **Tech Stack 💻:**
 - React JS
 - Java Spring
-- SQL
+- MySQL
 
 **Role:**
 - Backend Developer
