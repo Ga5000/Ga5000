@@ -11,19 +11,25 @@
 - I enjoy coding and having fun with it.
 
 **Knowledge 💡:**
-- Spring MVC
-- Spring Data JPA
-- Spring Security - JWT
-- Hibernate
-- OOP
+--
+<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Spring-MVC-green)</a>
+<br>
+<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Spring-JPA-green)</a>
+<br>
+<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Spring-Security-green)</a>
+<br>
+<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Java-Maven-red)</a>
+--
 
 **Tech Stack 💻:**
 --
-<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/ReactJS-blue)</a>
+<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Tech-ReactJS-blue)</a>
 <br>
-<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Java-red)</a>
+<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Tech-Java-red)</a>
 <br>
-<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/MySQL-blue)</a>
+<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Tech-MySQL-blue)</a>
+<br>
+<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Tool-Git-red)</a>
 
 **Role:**
 - Computer Science Student & Aspiring Software Developer
