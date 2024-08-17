@@ -29,6 +29,8 @@
 --
 <a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/-ReactJS-blue)</a>
 <br>
+<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/-JavaScript-yellow)</a>
+<br>
 <a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/-Java-red)</a>
 <br>
 <a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/-MySQL-blue)</a>
