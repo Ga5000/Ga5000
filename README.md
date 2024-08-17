@@ -25,13 +25,13 @@
 
 **Tech Stack 💻:**
 --
-<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Tech-ReactJS-blue)</a>
+<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/-ReactJS-blue)</a>
 <br>
-<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Tech-Java-red)</a>
+<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/-Java-red)</a>
 <br>
-<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Tech-MySQL-blue)</a>
+<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/-MySQL-blue)</a>
 <br>
-<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Tool-Git-red)</a>
+<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/-Git-red)</a>
 
 **Role:**
 - Computer Science Student & Aspiring Software Developer
