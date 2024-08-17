@@ -19,6 +19,8 @@
 <a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Spring-Security-green)</a>
 <br>
 <a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Java-Maven-red)</a>
+<br>
+<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Java-DSA-blue)</a>
 --
 
 **Tech Stack 💻:**
