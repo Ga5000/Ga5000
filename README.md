@@ -18,6 +18,8 @@
 <br>
 <a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Spring-Security-green)</a>
 <br>
+<a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Spring-Hibernate-green)</a>
+<br>
 <a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Java-17+-red)</a>
 <br>
 <a href="https://github.com/Ga5000">![tech](https://img.shields.io/badge/Java-Maven-red)</a>
