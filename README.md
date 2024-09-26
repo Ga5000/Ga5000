@@ -8,8 +8,8 @@
 Hi! I'm Gabriel, a Computer Science student at UNICID. I'm passionate about software development, particularly in Java and Spring Boot. I'm always eager to learn and tackle new challenges in the tech world.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ga5000&layout=compact&theme=dark" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ga5000&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ga5000&layout=compact&theme=dark" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ga5000&show_icons=true&theme=radical" height="160px"/>
 </div>
 
 ---
