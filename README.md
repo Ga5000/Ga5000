@@ -30,7 +30,7 @@ Hi! I'm Gabriel, a Computer Science student at UNICID. I'm passionate about soft
 
 ---
 
-I have consistently been studying Java data structures and algorithms, Spring Boot features, and its most commonly used dependencies. I always have something I’m working on, so feel free to check out my projects on my [repositories page](https://github.com/Ga5000).
+I have consistently been studying Java data structures and algorithms, Spring Boot features, and its most commonly used dependencies. I always have something I’m working on, so feel free to check out my projects on my [repositories page](https://github.com/Ga5000?tab=repositories).
 
 
 
