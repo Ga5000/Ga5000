@@ -25,7 +25,6 @@ Hi! I'm Gabriel, a Computer Science student at UNICID. I'm passionate about soft
 ## I Also Know a Little About:
 - React
 - JavaScript/TypeScript
-- PostgreSQL
 - C
 - Python
 
