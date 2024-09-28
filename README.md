@@ -1,13 +1,8 @@
 # Gabriel Lisboa's README
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-lisboa05/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:gbr.lisboa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact-red" alt="Email Badge"/>
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/gabriel-lisboa05/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn Badge"/></a>
+  <a href="mailto:gbr.lisboa@gmail.com"><img src="https://img.shields.io/badge/Email-contact-red" alt="Email Badge"/></a>
+
 
 ## About Me
 Hi! I'm Gabriel, a Computer Science student at UNICID. I'm passionate about software development, particularly in Java and Spring Boot. I'm always eager to learn and tackle new challenges in the tech world.
