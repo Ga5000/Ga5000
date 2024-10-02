@@ -4,13 +4,13 @@ name: Generate Snake
 # Controls when the action will run.
 on:
   schedule:
-      # every 12 hours
+    # every 12 hours
     - cron: "0 */12 * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
   
-  # Also run on every push on the master branch
+  # Also run on every push on the main branch
   push:
     branches:
     - main
@@ -35,7 +35,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.gif?color_snake=#800080&color_dots=#000000,#333333,#666666,#999999,#cccccc
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
