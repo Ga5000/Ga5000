@@ -1,8 +1,8 @@
 # Hi! I'm Gabriel Lisboa
 
 
-<a href="https://github.com/Ga5000"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ga5000&layout=compact&hide=javascript,python,css,html&theme=github_dark" height="180em" alt="Top Languages"/></a>
-  <a href="https://github.com/Ga5000"><img src="https://github-readme-stats.vercel.app/api?username=Ga5000&show_icons=true&theme=github_dark" height="180em" alt="GitHub Stats"/><a/>
+<a href="https://github.com/Ga5000"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ga5000&layout=compact&hide=javascript,python,css,html&theme=github_dark" height="140em" alt="Top Languages"/></a>
+  <a href="https://github.com/Ga5000"><img src="https://github-readme-stats.vercel.app/api?username=Ga5000&show_icons=true&theme=github_dark" height="140em" alt="GitHub Stats"/><a/>
 
   <div style="display: inline-block">
     <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
