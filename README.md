@@ -1,4 +1,4 @@
-# Hi! I'm Gabriel Lisboa
+# Hi👋 I'm Gabriel
 
 
 <a href="https://github.com/Ga5000"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ga5000&layout=compact&hide=cMake,javascript,python,css,html&theme=github_dark" height="140em" alt="Top Languages"/></a>
