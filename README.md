@@ -9,19 +9,26 @@
   </div>
 
   ## About Me
-  ### Hi, I'm Gabriel Lisboa, a passionate Software Developer currently pursuing a Computer Science Bachelor degree at UNICID. I'm proficient in Java, Spring Boot, SQL
+  ### Hi, I'm Gabriel Lisboa, a dedicated and passionate Software Developer currently pursuing a Bachelor's degree in Computer Science at UNICID. I have a strong foundation in Java, Spring Boot, and SQL, and I 
+  ### love using these technologies to build efficient, scalable solutions.
+  ### The main technologies and tools I work with include:
     
   <div align="center" style="display: inline-block;">
     <img align="center" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-      <img align="center" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-      <img align="center" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-      <img align="center" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-      <img align="center" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
+    <img align="center" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+    <img align="center" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+    <img align="center" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+    <img align="center" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
     <img align="center" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+    <img  align="center" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+    <img  align="center" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+    <img  align="center" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+    <img  align="center" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />        
   </div>
 
- 
-  <div align="center" style="display: inline-block;">
+#
+ ### Contact
+  <div align="start" style="display: inline-block;">
     <a href="mailto:gbr.lisboa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/gabriel-lisboa05/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </div>
