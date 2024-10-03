@@ -9,8 +9,7 @@
   </div>
 
   ## About Me
-  ### Hi, I'm Gabriel Lisboa, a dedicated and passionate Software Developer currently pursuing a Bachelor's degree in Computer Science at UNICID. I have a strong foundation in Java, Spring Boot, and SQL, and I 
-  ### love using these technologies to build efficient, scalable solutions.
+  ### Hi, I'm Gabriel Lisboa, a dedicated and passionate Software Developer currently pursuing a Bachelor's degree in Computer Science at UNICID. 
   ### The main technologies and tools I work with include:
     
   <div align="center" style="display: inline-block;">
