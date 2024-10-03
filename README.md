@@ -3,9 +3,9 @@
 
 
 <div align="center">
-<a  href="https://github.com/Ga5000"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ga5000&layout=compact&hide=cMake,javascript,python,css,html&theme=github_dark" height="160em" alt="Top Languages"/></a>
-  <a href="https://github.com/Ga5000"><img src="https://github-readme-stats.vercel.app/api?username=Ga5000&show_icons=true&theme=github_dark" height="160em alt="GitHub Stats"/><a/>
-     <a href="https://github.com/Ga5000"><img src="https://streak-stats.demolab.com?user=Ga5000&theme=github-dark&border_radius=8&mode=weekly"/></a>
+<a  href="https://github.com/Ga5000"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ga5000&layout=compact&hide=cMake,javascript,python,css,html&theme=github_dark" height="140em" alt="Top Languages"/></a>
+  <a href="https://github.com/Ga5000"><img src="https://github-readme-stats.vercel.app/api?username=Ga5000&show_icons=true&theme=github_dark" height="140em alt="GitHub Stats"/><a/>
+     <a href="https://github.com/Ga5000"><img src="https://streak-stats.demolab.com?user=Ga5000&theme=github-dark&border_radius=8&mode=weekly" height="140em"/></a>
   </div>
 
   ## About Me
