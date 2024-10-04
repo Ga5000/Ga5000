@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img height="40px" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif"/> I'm Gabriel - aka <strong>Ga5000</strong></h1>
+<h1 align="center">Hi there I'm Gabriel - aka <strong>Ga5000</strong></h1>
 
 
 
